@@ -12,7 +12,7 @@ export default function Navbar() {
             Q
           </span>
           <span className="text-sm font-semibold tracking-tight text-slate-800 transition-colors duration-200 group-hover:text-violet-700 sm:text-base">
-            Quick-Poll Room
+            Quick-Poll Room DS
           </span>
         </Link>
         <nav className="flex items-center gap-1">
